@@ -1,3 +1,9 @@
+# Repository Structure
+
+- `README.md` - repo info and setup isntructions
+- `requirements.txt` - python packages for repository
+- `tutorials/` - folder containing all tutorials
+
 # Setup
 
 Setup script
